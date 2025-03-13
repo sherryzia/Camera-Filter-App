@@ -1,0 +1,61 @@
+# Flutter/Dart-specific
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_export_environment.sh
+flutter_export_environment.bat
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# iOS-specific
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Generated.xcconfig
+ios/.dart_tool/
+ios/.vscode/
+ios/Flutter.xcworkspace/
+ios/Flutter/Flutter.xcodeproj/
+ios/Flutter/*.xcfilelist
+
+# Xcode-specific
+*.xcworkspace
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcodeproj/xcshareddata/xcschemes/
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+*.xcsettings
+
+# Android-specific
+android/.gradle/
+android/.idea/
+android/local.properties
+android/.dart_tool/
+android/app/debug.keystore
+android/app/profile.keystore
+
+# macOS-specific
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Other
+*.log
+*.swp
+*.lock
+*.tmp

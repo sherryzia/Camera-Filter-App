@@ -840,9 +840,9 @@ Feel free to fork this project and customize it for your own applications!
 
 ## Screenshots
 
-![Home Screen](screenshots/home.png)
-![Lens Browser](screenshots/lenses.png)
-![Media Viewer](screenshots/media.png)
+![Home Screen](screenshots/home.jpg)
+![Lens Browser](screenshots/lenses.jpg)
+![Media Viewer](screenshots/media.jpg)
 
 
 ## License
